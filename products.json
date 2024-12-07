@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Wireless Earbuds",
+    "description": "Compact, high-quality earbuds with noise cancellation and a long-lasting battery.",
+    "price": 79.99,
+    "color": "Black"
+  },
+  {
+    "name": "Smart Watch",
+    "description": "Feature-rich smart watch with heart rate monitoring, GPS, and water resistance.",
+    "price": 129.99,
+    "color": "Silver"
+  },
+  {
+    "name": "Gaming Laptop",
+    "description": "High-performance laptop with a powerful GPU, 16GB RAM, and 1TB SSD for gaming enthusiasts.",
+    "price": 1499.99,
+    "color": "Gray"
+  },
+  {
+    "name": "Leather Wallet",
+    "description": "Stylish and durable wallet made from genuine leather with multiple card slots.",
+    "price": 39.99,
+    "color": "Brown"
+  },
+  {
+    "name": "Running Shoes",
+    "description": "Lightweight and breathable running shoes designed for comfort and durability.",
+    "price": 69.99,
+    "color": "Blue"
+  },
+  {
+    "name": "Bluetooth Speaker",
+    "description": "Portable Bluetooth speaker with deep bass, 10-hour battery life, and waterproof design.",
+    "price": 49.99,
+    "color": "Red"
+  },
+  {
+    "name": "Coffee Maker",
+    "description": "Compact coffee maker with programmable settings and a reusable filter.",
+    "price": 89.99,
+    "color": "White"
+  },
+  {
+    "name": "Office Chair",
+    "description": "Ergonomic office chair with lumbar support, adjustable height, and a mesh back.",
+    "price": 199.99,
+    "color": "Black"
+  },
+  {
+    "name": "Smartphone Case",
+    "description": "Shockproof case with a slim design, available for multiple phone models.",
+    "price": 24.99,
+    "color": "Green"
+  },
+  {
+    "name": "Backpack",
+    "description": "Multi-purpose backpack with padded laptop compartment and water-resistant material.",
+    "price": 59.99,
+    "color": "Gray"
+  }
+]
